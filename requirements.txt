@@ -1,0 +1,10 @@
+Django
+django-jenkins
+djangorestframework==3.8.2
+django-multiselectfield
+django-debug-toolbar
+django-rest-auth
+psycopg2
+djangorestframework-jwt
+requests
+django-csrf-protect-form
